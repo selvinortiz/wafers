@@ -1,0 +1,26 @@
+{
+  "name": "selvinortiz/wafers",
+  "description": "Easy way to manage cookies in PHP",
+  "keywords": [
+    "cookies",
+    "wafers"
+  ],
+  "require": {
+    "selvinortiz/dot": "^1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "SelvinOrtiz\\Wafers": "src"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Selvin Ortiz",
+      "email": "selvin@selvin.co"
+    }
+  ]
+}
